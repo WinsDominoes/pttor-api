@@ -424,8 +424,8 @@ You can change the province using their IDs, refer to the table below (This also
 | 3   | นนทบุรี         | Nonthaburi               |
 | 4   | ปทุมธานี        | Pathum Thani             |
 | 5   | พระนครศรีอยุธยา | Phra Nakhon Si Ayutthaya |
-| 7   | ลพบุรี          | Lop Buri                 |
 | 6   | อ่างทอง         | Ang Thong                |
+| 7   | ลพบุรี          | Lop Buri                 |
 | 8   | สิงห์บุรี       | Sing Buri                |
 | 9   | ชัยนาท          | Chai Nat                 |
 | 10  | สระบุรี         | Saraburi                 |
@@ -435,8 +435,8 @@ You can change the province using their IDs, refer to the table below (This also
 | 14  | ตราด            | Trat                     |
 | 15  | ฉะเชิงเทรา      | Chachoengsao             |
 | 16  | ปราจีนบุรี      | Prachin Buri             |
-| 18  | สระแก้ว         | Sa kaeo                  |
 | 17  | นครนายก         | Nakhon Nayok             |
+| 18  | สระแก้ว         | Sa kaeo                  |
 | 19  | นครราชสีมา      | Nakhon Ratchasima        |
 | 20  | บุรีรัมย์       | Buri Ram                 |
 | 21  | สุรินทร์        | Surin                    |
@@ -446,8 +446,8 @@ You can change the province using their IDs, refer to the table below (This also
 | 25  | ชัยภูมิ         | Chaiyaphum               |
 | 26  | อำนาจเจริญ      | Amnat Charoen            |
 | 27  | หนองบัวลำภู     | Nong Bua Lam Phu         |
-| 29  | อุดรธานี        | Udon Thani               |
 | 28  | ขอนแก่น         | Khon Kaen                |
+| 29  | อุดรธานี        | Udon Thani               |
 | 30  | เลย             | Loei                     |
 | 31  | หนองคาย         | Nong Khai                |
 | 32  | มหาสารคาม       | Maha Sarakham            |
